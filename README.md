@@ -1,5 +1,6 @@
-### Hey there! I'm Andrea Maurice..
+## :wave: Hey there! I'm Andrea Maurice..
 
+I'm currently a 3rd year student taking up BS Information System.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaMaurice&show_icons=true&theme=tokyonight)
