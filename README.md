@@ -1,6 +1,6 @@
 ## :wave: Hey there! I'm Andrea Maurice..
 
-I'm currently a 3rd year student taking up BS Information System.
+I'm currently a 4th year student taking up BS Information System.
 
 
 
